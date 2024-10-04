@@ -7,5 +7,5 @@
 
 <div align="center">
   <div>🔭 I’m a JS/TS Developer from Algeria</div>
-  <div> I’m currently working on   <a href="https://www.cravvelo.com/">cravvelo</a> /div>
+  <div> I’m currently working on   <a href="https://www.cravvelo.com/">cravvelo</a> </div>
 </div>
